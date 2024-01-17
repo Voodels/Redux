@@ -1,0 +1,24 @@
+{
+  "account": [
+    {
+      "id": 1,
+      "ammount": 100
+    },
+    {
+      "id": 2,
+      "ammount": 200
+    },
+    {
+      "id": 3,
+      "ammount": 300
+    },
+    {
+      "id": 4,
+      "ammount": 400
+    },
+    {
+      "id": 5,
+      "ammount": 500
+    }
+  ]
+}
